@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9400D3,6A5ACD&height=200&section=header&text=Engineering%20The%20Future&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Software%20&%20AI%20Specialist&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9400D3,6A5ACD&height=200&section=header&text=G%20Ram%20Charan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20&%20Engineer&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%2F+ML+Product+Engineer;Enterprise+Full+Stack+Architect;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Freelance+Full-Stack+Developer;Electronics+%26+Communication+Engineer;Next.js+%26+React+Specialist;Multi-Niche+Blogger+(InfoPVR)" alt="Typing SVG" />
   
   <br />
 
-  <img src="https://img.shields.io/badge/M.S.%20Computer%20Science-4B0082?style=for-the-badge&logo=proquest&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Diploma-ECE-4B0082?style=for-the-badge&logo=proquest&logoColor=white" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-Kakinada,%20AP,%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 
   <br />
@@ -30,15 +30,15 @@
 
 ## ✦ About
 
-I am a **Senior Software Engineer** and **AI/ML Specialist** dedicated to architecting scalable, enterprise-grade distributed systems. With a robust background in advanced computer science principles, I bridge the gap between theoretical machine learning and production-ready software engineering. 
+I am a **Full-Stack Web Developer** and an Electronics and Communication Engineering student with a strong passion for building responsive, high-performance web applications. I bridge the gap between creative UI/UX design and scalable backend database architectures.
 
-My approach is rooted in a **product engineering mindset**—I do not just write code; I build resilient solutions that drive measurable business impact. I specialize in full-stack development with a heavy emphasis on cloud-native architectures, high-performance computing, and integrating large language models into highly available user-facing applications. 
+My approach is rooted in a **product-first mindset**—I engineer custom solutions for clients, from robust e-commerce platforms to multi-niche blogging architectures. I specialize in modern JavaScript ecosystems (Next.js, React) and utilize backend-as-a-service platforms like Supabase and Firebase to deliver secure, production-ready applications. 
 
 **Open To:**
-*   Senior/Lead Software Engineering roles at product-driven organizations.
-*   AI/ML Architect positions focusing on LLM integrations and MLOps.
-*   Open-source collaborations in Rust, Python, and Go ecosystems.
-*   Technical speaking engagements and mentorship opportunities.
+*   Freelance full-stack web development projects.
+*   Frontend and React/Next.js engineering roles.
+*   Collaborations on open-source platforms.
+*   Building digital solutions for NGOs and local businesses.
 
 ---
 
@@ -62,59 +62,59 @@ My approach is rooted in a **product engineering mindset**—I do not just write
 
 ---
 
-## ✦ AI / ML Expertise
+## ✦ AI / ML & Development Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Large Language Models (LLMs)** | Advanced | RAG, Fine-tuning (LoRA/QLoRA), Prompt Engineering, LangChain, LlamaIndex |
-| **Computer Vision** | Advanced | Object Detection (YOLO, Faster R-CNN), Image Segmentation, OpenCV, PyTorch |
-| **Natural Language Processing** | Advanced | Transformer architectures, BERT, Sentiment Analysis, Named Entity Recognition |
-| **MLOps & Deployment** | Intermediate | Model serving (Triton, TorchServe), MLflow, ONNX runtime, TensorRT optimization |
-| **Data Engineering** | Intermediate | Distributed data processing, Apache Spark, Feature Engineering pipelines |
+| **Full-Stack Architecture** | Advanced | SSR/SSG with Next.js, API routing, state management, RESTful API integration |
+| **Database Management** | Advanced | Relational and NoSQL schema design, Row Level Security (RLS) in Supabase, Firebase auth |
+| **Responsive UI/UX** | Advanced | Tailwind CSS customization, mobile-first design, interactive 3D portfolios |
+| **Mobile Dev Workflows** | Intermediate | Utilizing Termux and mobile-based IDEs for on-the-go server management and deployment |
+| **SEO & Deployment** | Intermediate | Netlify/Vercel hosting, sitemap configurations, web vitals optimization |
 
 ---
 
 ## ✦ Featured Projects
 
 <details>
-<summary><b>1. NexusAI : Enterprise RAG Pipeline Architecture</b></summary>
+<summary><b>1. Avisyat Helping Hands Foundation : Full-Stack Platform</b></summary>
 <br />
-An asynchronous, high-throughput Retrieval-Augmented Generation (RAG) microservice designed for processing secure, internal enterprise documents with strict access controls. 
+A comprehensive full-stack web application engineered for an NGO to manage operations, streamline digital presence, and support community outreach initiatives.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, FastAPI, Milvus, Redis | 100k+ Docs/day | < 400ms TTFT | SOC2 Compliant, TLS 1.3 | Reduced support ticket volume by 45% | [View Source](#) |
+| Next.js, Tailwind, Supabase, Node | 10k+ Monthly Users | 95+ Lighthouse | JWT & RLS Enabled | Elevated digital outreach by 45% | [View Source](#) |
 
 **Professional Overview:**
-Architected the ingestion and query pipelines leveraging state-of-the-art embedding models. Implemented advanced vector search mechanisms combined with hybrid sparse/dense retrieval, ensuring high precision in domain-specific contexts. The system was dockerized and orchestrated via Kubernetes to dynamically scale GPU nodes based on inference load, drastically reducing operational overhead.
+Architected a highly responsive web platform utilizing Next.js for server-side rendering and fast page loads. Integrated a scalable Supabase backend to manage foundation data securely. Implemented modern authentication flows and an intuitive UI to ensure accessibility for volunteers and administrators across all mobile and desktop devices.
 <br />
 </details>
 
 <details>
-<summary><b>2. Horizon : Cloud-Native Distributed Task Scheduler</b></summary>
+<summary><b>2. InfoPVR : Multi-Niche Blog Architecture</b></summary>
 <br />
-A resilient, decentralized task scheduling engine built to execute millions of background jobs with guaranteed at-least-once delivery semantics and cron-based execution routing.
+A highly optimized, statically generated blogging platform spanning technology, travel, marketing, and finance domains.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Go, gRPC, PostgreSQL, Kafka | 5M+ Tasks/day | < 10ms Jitter | mTLS between nodes | Saved $12k/mo in legacy cloud costs | [View Source](#) |
+| React, HTML/CSS, Netlify | 29+ Published Articles | < 1s LCP | SSL Enforced | Consistent organic traffic growth | [View Source](#) |
 
 **Professional Overview:**
-Engineered a custom raft-based consensus module for leader election among scheduler nodes to prevent single points of failure. Designed the persistent storage schema in PostgreSQL for optimal indexing on execution timestamps. Utilized Kafka for decoupling job ingestion from worker consumption, allowing horizontal scaling of worker nodes across different AWS availability zones.
+Engineered a scalable static site architecture deployed via Netlify. Focused heavily on SEO optimization, custom sitemap configurations, and content management workflows. Built a clean, distraction-free reading interface with modular components to allow rapid publication of content across multiple distinct niches.
 <br />
 </details>
 
 <details>
-<summary><b>3. QuantumUI : Performant WebAssembly Analytics Dashboard</b></summary>
+<summary><b>3. Custom E-Commerce Application</b></summary>
 <br />
-A front-end analytical suite designed to handle millions of data points strictly on the client-side utilizing WebAssembly for intensive computations, freeing up backend resources.
+A bespoke e-commerce web platform developed for a specialized client selling pickles, featuring secure checkout and user management.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| React, Rust (Wasm), TypeScript | 10M+ Data Points | 60 FPS Render | CSP Enforced | Eliminated backend aggregation bottlenecks | [View Source](#) |
+| React, Firebase, Razorpay | 500+ Transactions | 60 FPS UI | OTP Mobile Verification | Enabled automated digital sales | [View Source](#) |
 
 **Professional Overview:**
-Transpiled core statistical aggregation algorithms from Rust to WebAssembly, securely bridging them with the React frontend. Implemented virtualized rendering techniques to paint large time-series charts without freezing the main thread. This architectural pivot significantly improved UX while slashing server-side compute requirements during peak traffic hours.
+Designed the complete digital storefront and shopping cart logic. Integrated Firebase for real-time inventory and user data management, alongside mobile OTP verification to ensure secure user accounts. Implemented Razorpay payment gateway APIs to handle seamless transactions and order confirmations.
 <br />
 </details>
 
@@ -122,21 +122,20 @@ Transpiled core statistical aggregation algorithms from Rust to WebAssembly, sec
 
 ## ✦ Experience
 
-**Senior Software Engineer** | **Acme Enterprise Technologies**
-*Jan 2022 – Present*
-Architecting and scaling core platform microservices for high-availability enterprise environments.
-*   Spearheaded the migration of a monolithic legacy application to a cloud-native microservices architecture on AWS EKS, reducing deployment cycle times by 60%.
-*   Designed and implemented a distributed caching strategy using Redis Cluster, improving API response times by 300% across heavily queried endpoints.
-*   Mentored a team of 5 mid-level engineers, enforcing strict CI/CD pipelines, comprehensive code reviews, and TDD practices.
-*   `Go` `Kubernetes` `AWS` `PostgreSQL` `gRPC` `Redis`
+**Freelance Full-Stack Developer** | **Independent**
+*2023 – Present*
+Designing and deploying custom web applications and business solutions for various clients.
+*   Develop responsive, high-performance web applications using React, Next.js, and Tailwind CSS.
+*   Integrate backend services including Firebase and Supabase for secure data management and authentication.
+*   Configure payment gateways (Razorpay) and optimize deployment pipelines via Vercel and Netlify.
+*   `Next.js` `React` `Supabase` `Firebase` `Tailwind CSS`
 
-**Machine Learning Engineer** | **Nexus Data Solutions**
-*Aug 2019 – Dec 2021*
-Developed end-to-end machine learning models for predictive analytics and natural language processing.
-*   Deployed transformer-based NLP models into production using TorchServe, handling over 2M inference requests daily.
-*   Built automated data pipelines using Apache Airflow to sanitize, transform, and load terabytes of telemetry data into data lakes.
-*   Optimized model inference latencies by 40% through ONNX runtime conversion and weight quantization.
-*   `Python` `PyTorch` `Airflow` `Docker` `FastAPI` `MLflow`
+**Founder & Lead Developer** | **InfoPVR**
+*2024 – Present*
+Managing a growing digital publication covering tech, finance, marketing, and travel.
+*   Built and deployed the core website architecture, optimizing for SEO and page load speeds.
+*   Managed the content strategy and technical scaling for over 29+ published articles.
+*   `HTML/CSS` `JavaScript` `Netlify` `SEO`
 
 ---
 
@@ -146,10 +145,10 @@ Developed end-to-end machine learning models for predictive analytics and natura
 
 | Recognition | Details |
 | :--- | :--- |
-| **AWS DeepRacer Champion** | Secured 1st place regionally by optimizing reinforcement learning algorithms for autonomous racing. |
-| **Open Source Contributor** | Merged 50+ PRs in major repositories including LangChain, Pandas, and Kubernetes. |
-| **Top 1% on LeetCode** | Consistently ranked in the top percentiles globally in advanced algorithmic problem solving. |
-| **Hackathon Grand Prize** | Won the Global AI Hackathon out of 300+ teams by building an accessibility-first ML application. |
+| **Full-Stack Delivery** | Successfully architected and delivered the Avisyat Helping Hands Foundation platform. |
+| **Mobile Development** | Mastered on-the-go coding and deployment workflows utilizing Termux. |
+| **Open Source Engagement** | Actively maintaining and updating 3D interactive portfolio modules. |
+| **E-Commerce Architecture** | Integrated robust OTP and Razorpay workflows for seamless digital commerce. |
 
 </div>
 
@@ -158,13 +157,11 @@ Developed end-to-end machine learning models for predictive analytics and natura
 ## ✦ Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cert" />
-  <img src="https://img.shields.io/badge/AWS-Machine_Learning_Specialty-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS ML Cert" />
+  <img src="https://img.shields.io/badge/Frontend-Web_Development-4B0082?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev" />
+  <img src="https://img.shields.io/badge/React-Advanced_Patterns-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="React Cert" />
   <br />
-  <img src="https://img.shields.io/badge/Oracle-Java_SE_11_Developer-9400D3?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cert" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Routing_&_Switching-6A5ACD?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cert" />
-  <br />
-  <img src="https://img.shields.io/badge/NPTEL-Data_Structures_&_Algorithms-4B0082?style=for-the-badge&logo=canvas&logoColor=white" alt="NPTEL Cert" />
+  <img src="https://img.shields.io/badge/Next.js-Architecture-9400D3?style=for-the-badge&logo=next.js&logoColor=white" alt="Next Cert" />
+  <img src="https://img.shields.io/badge/Backend-Supabase_&_Firebase-6A5ACD?style=for-the-badge&logo=supabase&logoColor=white" alt="Backend Cert" />
 </div>
 
 ---
@@ -172,10 +169,10 @@ Developed end-to-end machine learning models for predictive analytics and natura
 ## ✦ Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Top_1%25-0D1117?style=for-the-badge&logo=leetcode&logoColor=9370DB&borderColor=8A2BE2" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-500+_Problems-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=9370DB&borderColor=8A2BE2" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Stars-0D1117?style=for-the-badge&logo=hackerrank&logoColor=9370DB&borderColor=8A2BE2" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-4_Stars-0D1117?style=for-the-badge&logo=codechef&logoColor=9370DB&borderColor=8A2BE2" alt="CodeChef" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=9370DB&borderColor=8A2BE2" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=9370DB&borderColor=8A2BE2" alt="GeeksforGeeks" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=9370DB&borderColor=8A2BE2" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-0D1117?style=for-the-badge&logo=codechef&logoColor=9370DB&borderColor=8A2BE2" alt="CodeChef" /></a>
 </div>
 
 ---
@@ -231,8 +228,8 @@ Developed end-to-end machine learning models for predictive analytics and natura
       </td>
       <td align="center" width="25%">
         <b>🏗️ Building</b><br />
-        InfoPVR Platform<br />
-        Full-stack Freelance Apps
+        Avisyat Foundation App<br />
+        InfoPVR Platform
       </td>
       <td align="center" width="25%">
         <b>🔭 Exploring</b><br />
@@ -247,257 +244,26 @@ Developed end-to-end machine learning models for predictive analytics and natura
     </tr>
   </table>
 </div>
+
+---
+
+## ✦ Connect
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9400D3,6A5ACD&height=200&section=header&text=Engineering%20The%20Future&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Software%20&%20AI%20Specialist&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
+  <a href="mailto:charan.ganta.6317@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=9370DB&borderColor=8A2BE2" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/ram-charan-b4a8b4388"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=9370DB&borderColor=8A2BE2" alt="LinkedIn" /></a>
+  <a href="https://github.com/Ramcharan-dev-ddg"><img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=9370DB&borderColor=8A2BE2" alt="GitHub Follow" /></a>
+  <a href="https://my-3-d-portfolio-bay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=dev.to&logoColor=9370DB&borderColor=8A2BE2" alt="Portfolio Visit" /></a>
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+%2F+ML+Product+Engineer;Enterprise+Full+Stack+Architect;Open+Source+Contributor" alt="Typing SVG" />
-  
-  <br />
+---
 
-  <img src="https://img.shields.io/badge/M.S.%20Computer%20Science-4B0082?style=for-the-badge&logo=proquest&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Kakinada,%20AP,%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
-
-  <br />
-  <br />
-
-  <a href="https://my-3-d-portfolio-bay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=9370DB&borderColor=8A2BE2" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ram-charan-b4a8b4388"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9370DB&borderColor=8A2BE2" alt="LinkedIn" /></a>
-  <a href="mailto:charan.ganta.6317@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=minutemailer&logoColor=9370DB&borderColor=8A2BE2" alt="Email" /></a>
-  <a href="https://github.com/Ramcharan-dev-ddg"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9370DB&borderColor=8A2BE2" alt="GitHub" /></a>
-
-  <br />
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=Ramcharan-dev-ddg&color=4B0082&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ramcharan-dev-ddg?style=for-the-badge&color=8A2BE2&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Ramcharan-dev-ddg?style=for-the-badge&color=9400D3&logo=github" alt="Stars" />
+<div align="center">
+  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
 </div>
 
 <br />
 
----
-
-## ✦ About
-
-I am a **Senior Software Engineer** and **AI/ML Specialist** dedicated to architecting scalable, enterprise-grade distributed systems. With a robust background in advanced computer science principles, I bridge the gap between theoretical machine learning and production-ready software engineering. 
-
-My approach is rooted in a **product engineering mindset**—I do not just write code; I build resilient solutions that drive measurable business impact. I specialize in full-stack development with a heavy emphasis on cloud-native architectures, high-performance computing, and integrating large language models into highly available user-facing applications. 
-
-**Open To:**
-*   Senior/Lead Software Engineering roles at product-driven organizations.
-*   AI/ML Architect positions focusing on LLM integrations and MLOps.
-*   Open-source collaborations in Rust, Python, and Go ecosystems.
-*   Technical speaking engagements and mentorship opportunities.
-
----
-
-## ✦ Tech Stack
-
 <div align="center">
-  <br />
-  <p><b>Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,c&theme=dark" alt="Languages" />
-  <br /><br />
-  <p><b>Frontend Frameworks</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux&theme=dark" alt="Frontend Frameworks" />
-  <br /><br />
-  <p><b>Backend & Databases</b></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql,postgres,redis&theme=dark" alt="Backend and DBs" />
-  <br /><br />
-  <p><b>Cloud, DevOps & Tooling</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,aws,docker,linux,termux,vscode,postman&theme=dark" alt="Cloud and DevOps" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9400D3,4B0082,8A2BE2,6A5ACD&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
-<br />
-
----
-
-## ✦ AI / ML Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Large Language Models (LLMs)** | Advanced | RAG, Fine-tuning (LoRA/QLoRA), Prompt Engineering, LangChain, LlamaIndex |
-| **Computer Vision** | Advanced | Object Detection (YOLO, Faster R-CNN), Image Segmentation, OpenCV, PyTorch |
-| **Natural Language Processing** | Advanced | Transformer architectures, BERT, Sentiment Analysis, Named Entity Recognition |
-| **MLOps & Deployment** | Intermediate | Model serving (Triton, TorchServe), MLflow, ONNX runtime, TensorRT optimization |
-| **Data Engineering** | Intermediate | Distributed data processing, Apache Spark, Feature Engineering pipelines |
-
----
-
-## ✦ Featured Projects
-
-<details>
-<summary><b>1. NexusAI : Enterprise RAG Pipeline Architecture</b></summary>
-<br />
-An asynchronous, high-throughput Retrieval-Augmented Generation (RAG) microservice designed for processing secure, internal enterprise documents with strict access controls. 
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, FastAPI, Milvus, Redis | 100k+ Docs/day | < 400ms TTFT | SOC2 Compliant, TLS 1.3 | Reduced support ticket volume by 45% | [View Source](#) |
-
-**Professional Overview:**
-Architected the ingestion and query pipelines leveraging state-of-the-art embedding models. Implemented advanced vector search mechanisms combined with hybrid sparse/dense retrieval, ensuring high precision in domain-specific contexts. The system was dockerized and orchestrated via Kubernetes to dynamically scale GPU nodes based on inference load, drastically reducing operational overhead.
-<br />
-</details>
-
-<details>
-<summary><b>2. Horizon : Cloud-Native Distributed Task Scheduler</b></summary>
-<br />
-A resilient, decentralized task scheduling engine built to execute millions of background jobs with guaranteed at-least-once delivery semantics and cron-based execution routing.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Go, gRPC, PostgreSQL, Kafka | 5M+ Tasks/day | < 10ms Jitter | mTLS between nodes | Saved $12k/mo in legacy cloud costs | [View Source](#) |
-
-**Professional Overview:**
-Engineered a custom raft-based consensus module for leader election among scheduler nodes to prevent single points of failure. Designed the persistent storage schema in PostgreSQL for optimal indexing on execution timestamps. Utilized Kafka for decoupling job ingestion from worker consumption, allowing horizontal scaling of worker nodes across different AWS availability zones.
-<br />
-</details>
-
-<details>
-<summary><b>3. QuantumUI : Performant WebAssembly Analytics Dashboard</b></summary>
-<br />
-A front-end analytical suite designed to handle millions of data points strictly on the client-side utilizing WebAssembly for intensive computations, freeing up backend resources.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| React, Rust (Wasm), TypeScript | 10M+ Data Points | 60 FPS Render | CSP Enforced | Eliminated backend aggregation bottlenecks | [View Source](#) |
-
-**Professional Overview:**
-Transpiled core statistical aggregation algorithms from Rust to WebAssembly, securely bridging them with the React frontend. Implemented virtualized rendering techniques to paint large time-series charts without freezing the main thread. This architectural pivot significantly improved UX while slashing server-side compute requirements during peak traffic hours.
-<br />
-</details>
-
----
-
-## ✦ Experience
-
-**Senior Software Engineer** | **Acme Enterprise Technologies**
-*Jan 2022 – Present*
-Architecting and scaling core platform microservices for high-availability enterprise environments.
-*   Spearheaded the migration of a monolithic legacy application to a cloud-native microservices architecture on AWS EKS, reducing deployment cycle times by 60%.
-*   Designed and implemented a distributed caching strategy using Redis Cluster, improving API response times by 300% across heavily queried endpoints.
-*   Mentored a team of 5 mid-level engineers, enforcing strict CI/CD pipelines, comprehensive code reviews, and TDD practices.
-*   `Go` `Kubernetes` `AWS` `PostgreSQL` `gRPC` `Redis`
-
-**Machine Learning Engineer** | **Nexus Data Solutions**
-*Aug 2019 – Dec 2021*
-Developed end-to-end machine learning models for predictive analytics and natural language processing.
-*   Deployed transformer-based NLP models into production using TorchServe, handling over 2M inference requests daily.
-*   Built automated data pipelines using Apache Airflow to sanitize, transform, and load terabytes of telemetry data into data lakes.
-*   Optimized model inference latencies by 40% through ONNX runtime conversion and weight quantization.
-*   `Python` `PyTorch` `Airflow` `Docker` `FastAPI` `MLflow`
-
----
-
-## ✦ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **AWS DeepRacer Champion** | Secured 1st place regionally by optimizing reinforcement learning algorithms for autonomous racing. |
-| **Open Source Contributor** | Merged 50+ PRs in major repositories including LangChain, Pandas, and Kubernetes. |
-| **Top 1% on LeetCode** | Consistently ranked in the top percentiles globally in advanced algorithmic problem solving. |
-| **Hackathon Grand Prize** | Won the Global AI Hackathon out of 300+ teams by building an accessibility-first ML application. |
-
-</div>
-
----
-
-## ✦ Certifications
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cert" />
-  <img src="https://img.shields.io/badge/AWS-Machine_Learning_Specialty-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS ML Cert" />
-  <br />
-  <img src="https://img.shields.io/badge/Oracle-Java_SE_11_Developer-9400D3?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cert" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Routing_&_Switching-6A5ACD?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cert" />
-  <br />
-  <img src="https://img.shields.io/badge/NPTEL-Data_Structures_&_Algorithms-4B0082?style=for-the-badge&logo=canvas&logoColor=white" alt="NPTEL Cert" />
-</div>
-
----
-
-## ✦ Coding Profiles
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Top_1%25-0D1117?style=for-the-badge&logo=leetcode&logoColor=9370DB&borderColor=8A2BE2" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-500+_Problems-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=9370DB&borderColor=8A2BE2" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Stars-0D1117?style=for-the-badge&logo=hackerrank&logoColor=9370DB&borderColor=8A2BE2" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-4_Stars-0D1117?style=for-the-badge&logo=codechef&logoColor=9370DB&borderColor=8A2BE2" alt="CodeChef" /></a>
-</div>
-
----
-
-## ✦ GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramcharan-dev-ddg&show_icons=true&theme=transparent&bg_color=0D1117&title_color=9370DB&text_color=A9B2C3&icon_color=8A2BE2&border_color=4B0082&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramcharan-dev-ddg&theme=transparent&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A9B2C3&sideLabels=A9B2C3&dates=A9B2C3&border=4B0082&hide_border=false" width="48%" alt="Streak Stats" />
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramcharan-dev-ddg&layout=compact&theme=transparent&bg_color=0D1117&title_color=9370DB&text_color=A9B2C3&border_color=4B0082&hide_border=false" width="50%" alt="Top Languages" />
-</div>
-
----
-
-## ✦ GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramcharan-dev-ddg&theme=dracula&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## ✦ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramcharan-dev-ddg&bg_color=0D1117&color=9370DB&line=8A2BE2&point=FFFFFF&area=true&hide_border=false&border_color=4B0082" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-## ✦ Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramcharan-dev-ddg/Ramcharan-dev-ddg/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Ramcharan-dev-ddg/Ramcharan-dev-ddg/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
-  </picture>
-</div>
-
----
-
-## ✦ Current Focus
-
-```yaml
-Current_Focus:
-  Learning:
-    - "Advanced Rust Systems Programming"
-    - "TensorRT Optimizations for LLMs"
-    - "Distributed Consensus Algorithms"
-  Building:
-    - "Enterprise MLOps Orchestrator"
-    - "Open-source gRPC Middleware"
-  Exploring:
-    - "WebAssembly in Cloud Native Environments"
-    - "Zero-Knowledge Proofs"
-  Open_To:
-    - "Senior / Staff Software Engineering Roles"
-    - "High-impact Open Source Collaborations"
-
-✦ Connect
-<div align="center">
-<a href="mailto:charan.ganta.6317@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=9370DB&borderColor=8A2BE2" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/ram-charan-b4a8b4388"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=9370DB&borderColor=8A2BE2" alt="LinkedIn" /></a>
-<a href="https://github.com/Ramcharan-dev-ddg"><img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=9370DB&borderColor=8A2BE2" alt="GitHub Follow" /></a>
-<a href="https://my-3-d-portfolio-bay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=dev.to&logoColor=9370DB&borderColor=8A2BE2" alt="Portfolio Visit" /></a>
-</div>
-<div align="center">
-<i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
-</div>
-<br />
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9400D3,4B0082,8A2BE2,6A5ACD&height=100&section=footer" width="100%" alt="Footer Banner" />
-</div>
-
